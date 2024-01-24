@@ -1,2 +1,2 @@
 # Java-code
-This repository contain Topic with examples
+This repository contain Topics with examples
